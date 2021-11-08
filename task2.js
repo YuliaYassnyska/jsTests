@@ -13,4 +13,4 @@ const count = (num) => {
     return result
 }
 
-console.log(count(102045590))
+module.exports = { count }

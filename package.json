@@ -1,0 +1,29 @@
+{
+  "name": "jstests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliaYassnyska/jsTests.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "yuliayasso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliaYassnyska/jsTests/issues"
+  },
+  "homepage": "https://github.com/YuliaYassnyska/jsTests#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
